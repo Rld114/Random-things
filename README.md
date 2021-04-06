@@ -16,13 +16,8 @@ ucokware update
 
 
 
--updated directory configs
 
-
-
-
-
--better AA
+-AA v2
 
 
 
