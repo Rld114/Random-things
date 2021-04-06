@@ -17,10 +17,4 @@ ucokware update
 
 
 
--AA v2
-
-
-
-
-
--improved resolver(if u want to help me to repairing resolver dm me po#1776) =_=
+-BETTER GUI
