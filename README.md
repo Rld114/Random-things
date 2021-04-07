@@ -16,4 +16,10 @@ ucokware update
 
 
 
--BETTER GUI
+-added resolver override
+
+
+
+
+
+-improved resolver
